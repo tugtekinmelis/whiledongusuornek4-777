@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while döngüsü ornek4-777", "while döngüsü ornek4-777\while döngüsü ornek4-777.csproj", "{6B2FC6F7-276A-437C-80F3-EF15EA22F909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2FC6F7-276A-437C-80F3-EF15EA22F909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2FC6F7-276A-437C-80F3-EF15EA22F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2FC6F7-276A-437C-80F3-EF15EA22F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2FC6F7-276A-437C-80F3-EF15EA22F909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FEF07E-7F1C-4D0C-A4E7-7EC31DFDCA3C}
+	EndGlobalSection
+EndGlobal

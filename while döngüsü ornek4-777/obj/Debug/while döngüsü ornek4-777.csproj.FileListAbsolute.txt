@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\bin\Debug\while döngüsü ornek4-777.exe.config
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\bin\Debug\while döngüsü ornek4-777.exe
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\bin\Debug\while döngüsü ornek4-777.pdb
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while döngüsü ornek4-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while döngüsü ornek4-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while_döngüsü_ornek4_777.Form1.resources
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while_döngüsü_ornek4_777.Properties.Resources.resources
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while döngüsü ornek4-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while döngüsü ornek4-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while döngüsü ornek4-777.exe
+C:\Users\User\source\repos\while döngüsü ornek4-777\while döngüsü ornek4-777\obj\Debug\while döngüsü ornek4-777.pdb
